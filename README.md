@@ -1,1 +1,1 @@
-A 2048-inspired game coded with Zuitt Co. via Free Coding Bootcamp 2023.
+A 2048-inspired game coded with Zuitt Co. via Free Coding Bootcamp - Web Development.
